@@ -1414,7 +1414,7 @@ Traceback (most recent call last):
     from . import csgraph
   File "c:\Users\User\anaconda3\envs\pycaret\lib\site-packages\scipy\sparse\csgraph\__init__.py", line 183, in <module>
     from ._traversal import breadth_first_order, depth_first_order, \
-ImportError: DLL load failed while importing _traversal: ÀÌ ÀÛ¾÷À» ¿Ï·áÇÏ±â À§ÇÑ ÆäÀÌÂ¡ ÆÄÀÏÀÌ ³Ê¹« ÀÛ½À´Ï´Ù.
+ImportError: DLL load failed while importing _traversal: ï¿½ï¿½ ï¿½Û¾ï¿½ï¿½ï¿½ ï¿½Ï·ï¿½ï¿½Ï±ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Â¡ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê¹ï¿½ ï¿½Û½ï¿½ï¿½Ï´ï¿½.
 """
 
 The above exception was the direct cause of the following exception:
@@ -1469,7 +1469,7 @@ Traceback (most recent call last):
     from . import csgraph
   File "c:\Users\User\anaconda3\envs\pycaret\lib\site-packages\scipy\sparse\csgraph\__init__.py", line 183, in <module>
     from ._traversal import breadth_first_order, depth_first_order, \
-ImportError: DLL load failed while importing _traversal: ÀÌ ÀÛ¾÷À» ¿Ï·áÇÏ±â À§ÇÑ ÆäÀÌÂ¡ ÆÄÀÏÀÌ ³Ê¹« ÀÛ½À´Ï´Ù.
+ImportError: DLL load failed while importing _traversal: ï¿½ï¿½ ï¿½Û¾ï¿½ï¿½ï¿½ ï¿½Ï·ï¿½ï¿½Ï±ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Â¡ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê¹ï¿½ ï¿½Û½ï¿½ï¿½Ï´ï¿½.
 """
 
 The above exception was the direct cause of the following exception:
